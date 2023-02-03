@@ -1,0 +1,25 @@
+/* Place custom CSS styling for FontAwesomeIcon widget at runtime in this file */
+.widget-fontawesomeicon {
+	font-family: FontAwesome !important;
+	   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: none;
+   user-select: none;
+   display: flex;
+   flex-direction: row;
+   box-sizing: border-box;
+}
+
+.widget-fontawesomeicon span {
+	font-family: FontAwesome !important;
+}
+
+.widget-fontawesomeicon i {
+	font-family: FontAwesome !important;
+}

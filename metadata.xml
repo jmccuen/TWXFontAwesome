@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="6.6.5" name="FontAwesomeIcon" packageVersion="1.1.2" vendor="Thingworx Labs"> 
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <Widgets>
+        <Widget name="fontawesomeicon">
+            <UIResources>
+                <FileResource description="" file="fontawesomeicon.ide.js" isDevelopment="true" isRuntime="false" type="JS"/>
+                <FileResource description="" file="fontawesomeicon.ide.css" isDevelopment="true" isRuntime="false" type="CSS"/>
+                <FileResource description="" file="fontawesomeicon.runtime.js" isDevelopment="false" isRuntime="true" type="JS"/>
+                <FileResource description="" file="fontawesomeicon.runtime.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+                <FileResource type="UNKNOWN" file="fonts/FontAwesome.otf" description="" isDevelopment="true" isRuntime="true" />
+                <FileResource type="UNKNOWN" file="fonts/fontawesome-webfont.eot" description="" isDevelopment="true" isRuntime="true" /> 
+                <FileResource type="UNKNOWN" file="fonts/fontawesome-webfont.ttf" description="" isDevelopment="true" isRuntime="true" /> 
+                <FileResource type="UNKNOWN" file="fonts/fontawesome-webfont.woff" description="" isDevelopment="true" isRuntime="true" /> 
+                <FileResource type="UNKNOWN" file="fonts/fontawesome-webfont.woff2" description="" isDevelopment="true" isRuntime="true" />  
+                <FileResource type="CSS" file="font-awesome.min.css" description="" isDevelopment="true" isRuntime="true" />
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
